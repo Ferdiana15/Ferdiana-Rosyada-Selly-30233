@@ -1,0 +1,21 @@
+Product_id,NamaProduk,Kategori,StokAwal,StokAkhir,HargaPerUnit
+101,Produk A,Elektronik,500,450,120
+102,Produk B,Pakaian,300,200,80
+103,Produk C,Makanan,600,580,20
+104,Produk D,Perabot,200,150,150
+105,Produk E,Elektronik,450,400,100
+106,Produk F,Pakaian,700,650,75
+107,Produk G,Makanan,300,280,30
+108,Produk H,Perabot,500,450,200
+109,Produk I,Elektronik,400,380,90
+110,Produk J,Pakaian,600,570,85
+111,Produk K,Makanan,350,320,25
+112,Produk L,Perabot,250,220,160
+113,Produk M,Elektronik,800,750,110
+114,Produk N,Pakaian,550,530,70
+115,Produk O,Makanan,400,370,40
+116,Produk P,Perabot,650,620,170
+117,Produk Q,Elektronik,300,280,95
+118,Produk R,Pakaian,500,480,65
+119,Produk S,Makanan,450,430,45
+120,Produk T,Furnitur,400,370,150
